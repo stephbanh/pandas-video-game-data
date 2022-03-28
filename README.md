@@ -5,12 +5,12 @@ Considers:
 
 # Gender
 
-![table]()
+![table](https://github.com/stephbanh/pandas-video-game-data/blob/main/Images/gendertable.jpg)
 
 # Age 
 
-![table]()
+![table](https://github.com/stephbanh/pandas-video-game-data/blob/main/Images/agetable.jpg)
 
 # Items that are currently meta to the game's play. 
 
-![table]()
+![table](https://github.com/stephbanh/pandas-video-game-data/blob/main/Images/metaitemtable.jpg)
